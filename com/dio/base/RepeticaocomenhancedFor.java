@@ -13,6 +13,11 @@ public class RepeticaocomenhancedFor {
         this.items = items;
     }
 
+    // comentario em linha
+
+    /**
+     * Esse é um comentario em bloco
+     */
 
     public void printItems() {
         for (String i : items) {
